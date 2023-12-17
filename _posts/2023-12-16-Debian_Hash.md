@@ -1,8 +1,8 @@
 ---
 title: Debian Hashes
 date: 2023-12-16 21:42:30 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [Linux, hashes]     # TAG names should always be lowercase
+categories: [Linux, Hashes]
+tags: [linux, hashes, free software]     # TAG names should always be lowercase
 ---
 
 debian-12.4.0-amd64-netinst.iso

@@ -1,8 +1,8 @@
 ---
 title: Observations upon the Prophecies of Daniel, and the Apocalypse of St. John by Isaac Newton
 date: 2023-12-16 21:42:30 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [christian]     # TAG names should always be lowercase
+categories: [Christian, Science]
+tags: [christian, science, isaac newton]     # TAG names should always be lowercase
 ---
 
 Title: Observations upon the Prophecies of Daniel, and the Apocalypse of St. John

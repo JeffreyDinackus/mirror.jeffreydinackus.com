@@ -1,7 +1,7 @@
 ---
 title: The Apology by Tertullian
 date: 2023-12-16 21:42:30 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [Christian, Early Church Fathers]
 tags: [christian]     # TAG names should always be lowercase
 ---
 

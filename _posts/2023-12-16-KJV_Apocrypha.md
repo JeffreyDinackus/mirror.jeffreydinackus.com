@@ -1,7 +1,7 @@
 ---
 title: KJV Apocrypha
 date: 2023-12-16 21:42:30 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [christian, Bibles]
 tags: [christian]     # TAG names should always be lowercase
 ---
 

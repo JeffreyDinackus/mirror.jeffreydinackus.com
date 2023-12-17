@@ -1,7 +1,7 @@
 ---
 title: Diary of James Bruce
 date: 2023-12-16 21:42:30 +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [Christian, Enoch]
 tags: [christian]     # TAG names should always be lowercase
 ---
 
