@@ -1,4 +1,3 @@
-
 ---
 title: KJV Apocrypha
 date: 2023-12-16 21:42:30 +/-TTTT
