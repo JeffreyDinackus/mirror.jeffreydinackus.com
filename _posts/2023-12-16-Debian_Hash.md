@@ -1,6 +1,6 @@
 ---
 title: Debian Hashes
-date: 2023-12-16 21:42:30 +/-TTTT
+date: 2023-12-10 21:42:30 +/-TTTT
 categories: [Linux, Hashes]
 tags: [linux, hashes, free software]     # TAG names should always be lowercase
 ---
